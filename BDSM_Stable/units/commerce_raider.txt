@@ -36,7 +36,7 @@ commerce_raider = {
 		artillery = 0.04
 		canned_food = 0.05
 		fertilizer = 0.025
-		money = 1
+		steel = 0.2
 	}
 	
 	#Naval Abilties
